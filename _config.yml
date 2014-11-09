@@ -11,7 +11,7 @@ title:            Eniz Gülek
 tagline:          'Front End Developer'
 description:      'I am Javascript focused Front End Developer <a href="http://metglobal.com/" target="_blank">@Metglobal</a>. It's all about the experience.
 url:              http://enzglk.github.io
-baseurl:          /
+baseurl:          http://hyde.getpoole.com
 
 author:
   name:           'Eniz Gülek'
