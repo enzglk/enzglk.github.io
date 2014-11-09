@@ -3,15 +3,13 @@ markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
-permalink:        pretty
-relative_permalinks: true
+permalink:        /post/:title.html
 
 # Setup
 title:            Eniz Gülek
 tagline:          'Front End Developer'
-description:      'I am Javascript focused Front End Developer <a href="http://metglobal.com/" target="_blank">@Metglobal</a>. It's all about the experience.
-url:              http://enzglk.github.io
-baseurl:          http://hyde.getpoole.com
+description:      "UX designer and product thinker. It's all about the experience."
+url:              enzglk.github.io
 
 author:
   name:           'Eniz Gülek'
@@ -23,4 +21,7 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/enzglk
+  repo:           https://github.com/enzglk/hyde
+
+collections:
+- portfolio
