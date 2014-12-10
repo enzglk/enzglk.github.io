@@ -4,7 +4,6 @@ title: Merhaba Jekyll
 published: true
 ---
 
-## Merhaba Jekyll
 
 Kurması oldukça kolay olan jekyll ile blog denemelerime buradan devam edeceğim. Paraya kıyıp domain alana kadar github pages'in verdiği github.io subdomaininden 
 çalışacak
